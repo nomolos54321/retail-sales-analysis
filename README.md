@@ -37,7 +37,7 @@ Example:
 Revenue Concentration
 Top 10% of customers generated 31% of total revenue, highlighting the importance of retaining high-value customers.
 ________________________________________
-Customer Loyalty
+Customer Loyalty - 
 Repeat customers generated 99.7% of revenue, demonstrating that retention strategies are critical for growth.
 ________________________________________
 Product Performance
