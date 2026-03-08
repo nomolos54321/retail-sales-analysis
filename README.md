@@ -8,7 +8,7 @@ Retail companies generate large volumes of transactional data but often lack cle
 •	marketing strategy effectiveness
 This project analyses retail transaction data to uncover key revenue drivers and customer behaviour patterns. 
 ________________________________________
-Tools Used
+# Tools Used
 •	SQL (MySQL)
 •	Python (Pandas)
 •	Data modelling (fact + dimension tables)
@@ -58,7 +58,9 @@ The Consumer segment generated the largest share of total revenue, significantly
 
 ![CLV](visuals/CLV_Segment.png)
 
-Corporate customers have the highest average customer lifetime value, slightly outperforming the Home Office segment and noticeably exceeding the Consumer segment. This suggests that although Consumer customers generate more total revenue, Corporate customers tend to spend more per customer over time.________________________________________
+Corporate customers have the highest average customer lifetime value, slightly outperforming the Home Office segment and noticeably exceeding the Consumer segment. This suggests that although Consumer customers generate more total revenue, Corporate customers tend to spend more per customer over time.
+
+________________________________________
 Key Insights
 Example:
 Revenue Concentration
