@@ -32,7 +32,7 @@ Key Business Questions
 6.	What is the customer lifetime value?
 These questions mirror real business decisions.
 ________________________________________
-##Data Visualisations 
+## Data Visualisations 
 ### Monthly Revenue Trend
 
 ![Revenue Trend](visuals/Monthly_Revenue_Trend.png)
