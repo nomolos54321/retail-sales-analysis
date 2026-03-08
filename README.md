@@ -14,16 +14,15 @@ ________________________________________
 •	Data modelling (fact + dimension tables)
 •	Data visualisation
 ________________________________________
-Data Pipeline
+# Data Pipeline
 Steps taken:
 1.	Raw CSV data loaded using Python
 2.	Data cleaned and imported into MySQL
 3.	Fact and dimension tables created
 4.	SQL queries used to analyse revenue and customer behaviour
 
-
 ________________________________________
-Key Business Questions
+# Key Business Questions
 1.	How has revenue changed over time?
 2.	Do a small number of customers drive most revenue?
 3.	How valuable are repeat customers?
