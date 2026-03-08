@@ -1,6 +1,6 @@
 # Retail Sales Performance & Customer Behaviour Analysis
 ________________________________________
-Business Problem
+# Business Problem
 Retail companies generate large volumes of transactional data but often lack clear insights into:
 •	revenue trends
 •	customer behaviour
