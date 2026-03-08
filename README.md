@@ -35,7 +35,7 @@ ________________________________________
 ## Data Visualisations 
 ### Monthly Revenue Trend
 
-![Revenue Trend](visuals/Monthly_Revenue_Trend.png)
+![Revenue Trend](visuals/Monthly__Revenue_Trend.png)
 
 Revenue steadily increased between 2015 and 2018, with several noticeable spikes towards the end of each year. This suggests a seasonal sales pattern where demand increases during the holiday period. The overall upward trend indicates consistent business growth across the analysed time period.
 
