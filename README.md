@@ -57,7 +57,7 @@ The Consumer segment generated the largest share of total revenue, significantly
 Corporate customers have the highest average customer lifetime value, slightly outperforming the Home Office segment and noticeably exceeding the Consumer segment. This suggests that although Consumer customers generate more total revenue, Corporate customers tend to spend more per customer over time.
 
 ________________________________________
-Key Insights
+# Key Insights
 Example:
 Revenue Concentration
 Top 10% of customers generated 31% of total revenue, highlighting the importance of retaining high-value customers.
@@ -75,7 +75,7 @@ Corporate customers delivered the highest average CLV (£2.9K), while Home Offic
 ________________________________________
 
 ________________________________________
-Business Recommendations
+# Business Recommendations
 •	Introduce loyalty programs for repeat customers
 •	Increase marketing targeting Corporate customers
 •	Promote high-performing products such as phones
