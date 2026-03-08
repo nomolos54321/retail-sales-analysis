@@ -8,13 +8,13 @@ Retail companies generate large volumes of transactional data but often lack cle
 •	marketing strategy effectiveness
 This project analyses retail transaction data to uncover key revenue drivers and customer behaviour patterns. 
 ________________________________________
-# Tools Used
+## Tools Used
 •	SQL (MySQL)
 •	Python (Pandas)
 •	Data modelling (fact + dimension tables)
 •	Data visualisation
 ________________________________________
-# Data Pipeline
+## Data Pipeline
 Steps taken:
 1.	Raw CSV data loaded using Python
 2.	Data cleaned and imported into MySQL
@@ -22,7 +22,7 @@ Steps taken:
 4.	SQL queries used to analyse revenue and customer behaviour
 
 ________________________________________
-# Key Business Questions
+## Key Business Questions
 1.	How has revenue changed over time?
 2.	Do a small number of customers drive most revenue?
 3.	How valuable are repeat customers?
@@ -38,20 +38,17 @@ ________________________________________
 
 Revenue steadily increased between 2015 and 2018, with several noticeable spikes towards the end of each year. This suggests a seasonal sales pattern where demand increases during the holiday period. The overall upward trend indicates consistent business growth across the analysed time period.
 
-
 ### Revenue by Product Category
 
 ![Category Revenue](visuals/Revenue_by_Category.png)
 
 Technology generated the highest overall revenue among the three product categories, followed by Furniture and Office Supplies. This suggests that technology products are the primary revenue driver for the business and may represent a key area for continued investment or promotion.
 
-
 ### Revenue by Customer Segment
 
 ![Segment Revenue](visuals/Revenue_By_Segment.png)
 
 The Consumer segment generated the largest share of total revenue, significantly outperforming both Corporate and Home Office segments. This indicates that individual consumers represent the largest portion of the customer base and contribute most to overall sales volume.
-
 
 ### Customer Lifetime Value (CLV) by Segment
 
