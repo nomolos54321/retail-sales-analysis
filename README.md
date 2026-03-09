@@ -10,9 +10,9 @@ This project analyses retail transaction data to uncover key revenue drivers and
 ________________________________________
 ## Tools Used
 •	**SQL (MySQL)** – data cleaning, transformation, and analysis  
-•	Python (Pandas)
+•	**Python** - (Pandas)
+•	**Tableau** – Data Visualisation
 •	Data modelling (fact + dimension tables)
-•	Data visualisation
 ________________________________________
 ## Data Pipeline
 Steps taken:
