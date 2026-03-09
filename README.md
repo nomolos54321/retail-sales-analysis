@@ -2,6 +2,21 @@
 
 ---
 
+## Executive Summary
+
+This project analyses retail transaction data to identify revenue trends, product performance, and customer value across different segments.
+
+Key findings include:
+
+- Revenue increased steadily between **2015 and 2018**, with strong seasonal peaks during the end-of-year holiday period.
+- **Technology products** generated the highest total revenue, making them the strongest product category.
+- The **Consumer segment** generated the most overall revenue, indicating that individual buyers drive the majority of sales volume.
+- **Corporate customers have the highest average lifetime value**, suggesting they represent the most valuable long-term customer segment.
+
+These insights can help guide marketing strategy, customer retention initiatives, and product investment decisions.
+
+---
+
 ## Project Overview
 
 The goal of this project was to analyse retail sales data to uncover revenue trends, customer behaviour, and the most valuable customer segments.
