@@ -31,6 +31,7 @@ The dataset contains transactional retail sales data, including:
 2.	Customer Segments
 3.	Product Categories
 4.	Shipping Information
+
 This raw dataset was cleaned and transformed into a fact and dimension table before analysis
 
 ## Data Pipeline
