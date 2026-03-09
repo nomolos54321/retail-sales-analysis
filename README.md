@@ -15,10 +15,6 @@ Key findings include:
 
 These insights can help guide marketing strategy, customer retention initiatives, and product investment decisions.
 
-## Dashboard Preview
-
-![Revenue Trend](visuals/Monthly__Revenue_Trend.png)
-
 ---
 
 ## Project Overview
@@ -26,6 +22,12 @@ These insights can help guide marketing strategy, customer retention initiatives
 The goal of this project was to analyse retail sales data to uncover revenue trends, customer behaviour, and the most valuable customer segments.
 
 The analysis combines SQL data modelling with Tableau visualisations to answer key business questions that could guide marketing and product strategy.
+
+---
+
+## Dashboard Preview
+
+![Revenue Trend](visuals/Monthly__Revenue_Trend.png)
 
 ---
 
