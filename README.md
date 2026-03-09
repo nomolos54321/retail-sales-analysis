@@ -12,7 +12,6 @@ ________________________________________
 •	**SQL (MySQL)** – data cleaning, transformation, and analysis  
 •	**Python** - (Pandas)
 •	**Tableau** – Data Visualisation
-
 •	**Data modelling** (fact + dimension tables)
 ________________________________________
 ## Data Pipeline
