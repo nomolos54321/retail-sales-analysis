@@ -15,6 +15,10 @@ Key findings include:
 
 These insights can help guide marketing strategy, customer retention initiatives, and product investment decisions.
 
+## Dashboard Preview
+
+![Revenue Trend](visuals/Monthly__Revenue_Trend.png)
+
 ---
 
 ## Project Overview
