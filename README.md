@@ -5,10 +5,15 @@ The goal of this project was to analyse retail sales data to uncover revenue tre
 
 ## Business Problem
 Retail companies generate large volumes of transactional data but often lack clear insights into:
+
 •	revenue trends
+
 •	customer behaviour
+
 •	product performance
+
 •	marketing strategy effectiveness
+
 This project analyses retail transaction data to uncover key revenue drivers and customer behaviour patterns. 
 ________________________________________
 ## Tools Used
