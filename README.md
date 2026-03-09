@@ -50,7 +50,7 @@ ________________________________________
 6.	What is the customer lifetime value?
 These questions mirror real business decisions.
 ________________________________________
-## Data Visualisations 
+# Data Visualisations 
 ### Monthly Revenue Trend
 
 ![Revenue Trend](visuals/Monthly__Revenue_Trend.png)
