@@ -3,7 +3,7 @@ ________________________________________
 # Project Overview
 The goal of this project was to analyse retail sales data to uncover revenue trends, customer behaviour, and the most valuable customer segments. The analysis combines SQL data modelling with Tableau visualisations to answer key business questions that could guide marketing and product strategy.
 
-# Business Problem
+## Business Problem
 Retail companies generate large volumes of transactional data but often lack clear insights into:
 •	revenue trends
 •	customer behaviour
