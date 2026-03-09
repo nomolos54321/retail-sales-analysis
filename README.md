@@ -25,6 +25,14 @@ ________________________________________
 
 •	**Data modelling** (fact + dimension tables)
 ________________________________________
+## Dataset
+The dataset contains transactional retail sales data, including:
+1.	Order Details
+2.	Customer Segments
+3.	Product Categories
+4.	Shipping Information
+This raw dataset was cleaned and transformed into a fact and dimension table before analysis
+
 ## Data Pipeline
 Steps taken:
 1.	Raw CSV data loaded using Python
