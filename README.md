@@ -9,7 +9,7 @@ Retail companies generate large volumes of transactional data but often lack cle
 This project analyses retail transaction data to uncover key revenue drivers and customer behaviour patterns. 
 ________________________________________
 ## Tools Used
-•	SQL (MySQL)
+•	**SQL (MySQL)** – data cleaning, transformation, and analysis  
 •	Python (Pandas)
 •	Data modelling (fact + dimension tables)
 •	Data visualisation
